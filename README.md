@@ -1,1 +1,5 @@
 # desktop-config
+
+~/.tmux.confg
+
+
